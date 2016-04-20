@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mopt:mopt xmlns:mopt="http://www.ibm.com/websphere/dtx/ui/me/mopt">
+  <mopt:info activeInputCardNumber="0" activeOutputCardNumber="0" currentCardNumber="0" currentMapNumber="1" version="12.0"/>
+  <mopt:composition/>
+  <mopt:debug/>
+  <mopt:runresults>
+    <mopt:results mapName="ToBASE64"/>
+  </mopt:runresults>
+  <mopt:editor>
+    <mopt:expansions cardName="blobin" mapName="ToBASE64"/>
+    <mopt:expansions cardName="baseout" mapName="ToBASE64"/>
+  </mopt:editor>
+</mopt:mopt>
